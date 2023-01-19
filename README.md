@@ -1,1 +1,2 @@
 # traing
+git 
